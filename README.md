@@ -16,14 +16,23 @@ This repository has Datasets for analysing the Sales data of AtliQ hardwares and
      -> PowerBI Dashboard
 ## 📊 Reports
    ![Customer Performance](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/Customer%20Performance.pdf)
+  
    ![Market Performance](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/Market%20Perofrmance.pdf)
+   
    ![Product Performance](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/product%20performance.pdf)
+   
    ![Top and bottom 5 Products by Quantity](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/top_bot%205%20products%20by%20quantity.pdf)
+   
    ![Top 5 Countries by Net sales](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/top_5%20countries%20by%20Netsales.pdf)
+   
    ![P&L by FY](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/P%26L%20by%20Fiscal_year.pdf)
+   
    ![P&L by Months and Quarters](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/P%26L%20by%20Months%20and%20Quarters.pdf)
+   
    ![P&L by Markets](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/P%26L%20by%20Markets.pdf)
+   
    ![New products report in 2021](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/2021_new%20Products.pdf)
+   
    ![GM% by Sub-zones](https://github.com/Abi18s/Excel-Sales-Analytics/blob/main/Reports/2021_new%20Products.pdf)
    
    
